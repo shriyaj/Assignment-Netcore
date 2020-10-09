@@ -3,3 +3,6 @@
 2) Chrome driver path should be configured
 3) robotframework Selenium2Library should be installed
 4) Pandas should be installed
+5) To run this, execute on command line
+  robot main.robot
+6) Data is saved to Iphone Details.csv
