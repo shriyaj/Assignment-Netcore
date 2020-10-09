@@ -1,0 +1,5 @@
+1) Python should be installed
+2) robot framework is installed
+2) Chrome driver path should be configured
+3) robotframework Selenium2Library should be installed
+4) Pandas should be installed
